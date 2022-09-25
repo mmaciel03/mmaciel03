@@ -4,8 +4,8 @@
 ## Skills:
 ### Programming lenguages:
 
-![HNibernate](https://img.shields.io/badge/HNibernate-c%23-blue)</br>
-![HNibernate](https://img.shields.io/badge/HNibernate-c%23-blue)</br>
+![Python](https://img.shields.io/badge/Python-c%23-blue)</br>
+![C#](https://img.shields.io/badge/C#-c%23-blue)</br>
 ![HNibernate](https://img.shields.io/badge/HNibernate-c%23-blue)</br>
 ![HNibernate](https://img.shields.io/badge/HNibernate-c%23-blue)</br>
 ![HNibernate](https://img.shields.io/badge/HNibernate-c%23-blue)</br>
@@ -22,23 +22,21 @@
 ### ORM
 ![HNibernate](https://img.shields.io/badge/HNibernate-c%23-blue)</br>
 ![EntityFramework](https://img.shields.io/badge/EntityFramework-c%23-blue)</br>
+![sequelize](https://img.shields.io/badge/sequelize-c%23-blue)</br>
+![mongoose](https://img.shields.io/badge/mongoose-c%23-blue)</br>
+![ADO.Net](https://img.shields.io/badge/ADO.Net-c%23-blue)</br>
 
 ### Architecture
-
-
+![Microserves](https://img.shields.io/badge/microsoft-c%23-blue)</br>
 ![Docker](https://img.shields.io/badge/microsoft-c%23-blue)</br>
 ![Ocelot](https://img.shields.io/badge/microsoft-c%23-blue)</br>
 ![RabbitMQ](https://img.shields.io/badge/microsoft-c%23-blue)</br>
 
-![Microserves](https://img.shields.io/badge/microsoft-c%23-blue)</br>
 
+## Libraries:
 
-![Microsoft](https://img.shields.io/badge/microsoft-c%23-blue)</br>
-![MSSQL](https://img.shields.io/badge/MSSQL-SQL-blue)</br>
-
-![Python](https://img.shields.io/badge/PythonL-blue)</br>
 ![Flash](https://img.shields.io/badge/Flash-blue)</br>
-![Pandas, ](https://img.shields.io/badge/pandas, -blue)</br>
+![Pandas](https://img.shields.io/badge/pandas, -blue)</br>
 ![Python](https://img.shields.io/badge/PythonL-blue)</br>
 ![Python](https://img.shields.io/badge/PythonL-blue)</br>
 ![Python](https://img.shields.io/badge/PythonL-blue)</br>
