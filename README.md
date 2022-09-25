@@ -2,8 +2,34 @@
 ### I'm a Systems Engineer and passionate about technology
 
 ## Skills:
+### Languages:
+
+### Data Base
+
+### ORM
+![HNibernate](https://img.shields.io/badge/HNibernate-c%23-blue)</br>
+![EntityFramework](https://img.shields.io/badge/EntityFramework-c%23-blue)</br>
+
+### Architecture
+
 
 ![Microsoft](https://img.shields.io/badge/microsoft-c%23-blue)</br>
+![Microsoft](https://img.shields.io/badge/microsoft-c%23-blue)</br>
+![Microsoft](https://img.shields.io/badge/microsoft-c%23-blue)</br>
+
+![Microsoft](https://img.shields.io/badge/microsoft-c%23-blue)</br>
+
+
+![Microsoft](https://img.shields.io/badge/microsoft-c%23-blue)</br>
+![MSSQL](https://img.shields.io/badge/MSSQL-SQL-blue)</br>
+
+![Python](https://img.shields.io/badge/PythonL-blue)</br>
+![Flash](https://img.shields.io/badge/Flash-blue)</br>
+![Pandas, ](https://img.shields.io/badge/pandas, -blue)</br>
+![Python](https://img.shields.io/badge/PythonL-blue)</br>
+![Python](https://img.shields.io/badge/PythonL-blue)</br>
+![Python](https://img.shields.io/badge/PythonL-blue)</br>
+![Python](https://img.shields.io/badge/PythonL-blue)</br>
 
 ## Research
 
