@@ -53,8 +53,38 @@
 ![Javascript](https://img.shields.io/badge/Javascript-blue)</br>
 
 ## Research
+![](https://img.shields.io/badge/Technology-brightgreen)</br>
+![](https://img.shields.io/badge/Computer%20Vision-brightgreen)</br>
+![](https://img.shields.io/badge/Artificial%20Intelligence-brightgreen)</br>
 
 ## Papers
+
+Maciel, Marcos, Claudia Pons (2022). Extracción de Información de Facturas(ar) Agrupada en Jerarquías de Negocios. 51 JAIIO Jornadas Argentinas de Informatica, Buenos Aires, Argentina </br>
+
+Maciel, Marcos, Claudia Pons (2022). Arquitectura para sustentar la integración de conocimiento externo heterogéneo en un motor de reglas. Revista Studiesin Engineering and Exact Sciences v.3 n.2. p.350-366. ISSN 2764-0981.</br>
+
+Maciel, Marcos, Claudia Pons (2021). Implementación Técnica de una Arquitectura Orientada a Integrar Conocimiento Externo Heterogéneo en Motor de Reglas. XXVII Congreso Argentino de Ciencias de la Computación, CACIC Salta, Argentina.</br>
+
+Maciel, Marcos, Claudia Pons (2021). Orquestación de Reglas para Integrar Conocimiento Heterogéneo. 9° Congreso Nacional de Ingeniería Informática / Sistemas de Información, CoNaIISI Mendoza, Argentina.</br>
+
+Maciel, Marcos (2020). Motor de Reglas desacoplado orientado a formato JavaScript Object Notation. XXVI Congreso Argentino de Ciencias de la Computación, CACIC Buenos Aires, Argentina. 489-498 ISBN: 0201633612 </br>
+
+Bustamante, L., Maciel, Marcos., López De Luise, Daniela. (2018, Noviembre). Análisis de temporalidad de imágenes con técnicas de detección, tracking y proyección de posición de un objeto. CoNaIISI, Mar del Plata Argentina. </br>
+
+Bustamante, L., Maciel, Marcos., López De Luise, Daniela. (2018, Septiembre). Análisis de temporalidad de imágenes con técnicas de detección, tracking y proyección de posición de un objeto. IEEE Computational Intelligence Society (CIS) ARGENTINA. TRIC VIII. </br>
+
+Rancez, L., Maciel, Marcos., López De Luise, Daniela., De Elía, Bernardo., Menditto, Juan., Carro Verdia, Julian., Pagano, Mauricio. (2018, Septiembre). Temporalidad Aplicada a Sistemas de Conciencia. IEEE Computational Intelligence Society (CIS) ARGENTINA. TRIC VIII. </br>
+
+Rancez, L., Maciel, Marcos., López De Luise, Daniela., De Elía, Bernardo., Menditto, Juan., Carro Verdia, Julian., Pagano, Mauricio. (2018, Septiembre). Temporalidad Aplicada a Sistemas de Conciencia. XVI Congreso Internacional en Innovación Tecnológica Informática.
+</br>
+
+López De Luise, Daniela., Rancez, Lucas., Maciel, Marcos., De Elía, Bernardo., Menditto, Juan. (2018, Noviembre). Evolution of Consciousness Systems with Bacteria. Elsevier. </br>
+
+Reconocimiento. </br>
+Categoría: Inteligencia Computacional, 3er puesto para Análisis de temporalidad de imágenes con técnicas de detección, tracking y proyección de posición de un objeto. IEEE Computational Intelligence Society (CIS) ARGENTINA. TRIC VIII </br>
+
+Reconocimiento. </br>
+Categoría: Trabajos estudiantiles Mención especial para Temporalidad Aplicada a Sistemas de Conciencia. XVI Congreso Internacional en Innovación Tecnológica Informática. </br>
 
 ## Always learning:
 
