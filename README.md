@@ -2,9 +2,22 @@
 ### I'm a Systems Engineer and passionate about technology
 
 ## Skills:
-### Languages:
+### Programming lenguages:
+
+![HNibernate](https://img.shields.io/badge/HNibernate-c%23-blue)</br>
+![HNibernate](https://img.shields.io/badge/HNibernate-c%23-blue)</br>
+![HNibernate](https://img.shields.io/badge/HNibernate-c%23-blue)</br>
+![HNibernate](https://img.shields.io/badge/HNibernate-c%23-blue)</br>
+![HNibernate](https://img.shields.io/badge/HNibernate-c%23-blue)</br>
+![HNibernate](https://img.shields.io/badge/HNibernate-c%23-blue)</br>
 
 ### Data Base
+
+![MSSQL](https://img.shields.io/badge/MSSQL-c%23-blue)</br>
+![Sybase](https://img.shields.io/badge/Sybase-c%23-blue)</br>
+![Oracle](https://img.shields.io/badge/Oracle-c%23-blue)</br>
+![Postgre](https://img.shields.io/badge/Postgre-c%23-blue)</br>
+![MongoDB](https://img.shields.io/badge/MongoDB-c%23-blue)</br>
 
 ### ORM
 ![HNibernate](https://img.shields.io/badge/HNibernate-c%23-blue)</br>
@@ -13,11 +26,11 @@
 ### Architecture
 
 
-![Microsoft](https://img.shields.io/badge/microsoft-c%23-blue)</br>
-![Microsoft](https://img.shields.io/badge/microsoft-c%23-blue)</br>
-![Microsoft](https://img.shields.io/badge/microsoft-c%23-blue)</br>
+![Docker](https://img.shields.io/badge/microsoft-c%23-blue)</br>
+![Ocelot](https://img.shields.io/badge/microsoft-c%23-blue)</br>
+![RabbitMQ](https://img.shields.io/badge/microsoft-c%23-blue)</br>
 
-![Microsoft](https://img.shields.io/badge/microsoft-c%23-blue)</br>
+![Microserves](https://img.shields.io/badge/microsoft-c%23-blue)</br>
 
 
 ![Microsoft](https://img.shields.io/badge/microsoft-c%23-blue)</br>
