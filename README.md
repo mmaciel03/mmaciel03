@@ -5,20 +5,20 @@
 ### Programming lenguages:
 
 ![Python](https://img.shields.io/badge/Python-blue)</br>
-![C#](https://img.shields.io/badge/C#-blue)</br>
+![C#](https://img.shields.io/badge/C%23-blue)</br>
 ![NodeJs](https://img.shields.io/badge/NodeJs-blue)</br>
 ![ReactJs](https://img.shields.io/badge/ReactJs-blue)</br>
 ![ASP.Net](https://img.shields.io/badge/ASP.Net-blue)</br>
-![MVC razor](https://img.shields.io/badge/MVC razor-blue)</br>
+![MVC&razor](https://img.shields.io/badge/MVC&Razor-blue)</br>
 ![NetCore](https://img.shields.io/badge/NetCore-blue)</br>
 
 ### Data Bases:
 
-![MSSQL](https://img.shields.io/badge/MSSQL-c%23-blue)</br>
-![Sybase](https://img.shields.io/badge/Sybase-c%23-blue)</br>
-![Oracle](https://img.shields.io/badge/Oracle-c%23-blue)</br>
-![Postgre](https://img.shields.io/badge/Postgre-c%23-blue)</br>
-![MongoDB](https://img.shields.io/badge/MongoDB-c%23-blue)</br>
+![MSSQL](https://img.shields.io/badge/MSSQL-blue)</br>
+![Sybase](https://img.shields.io/badge/Sybase-blue)</br>
+![Oracle](https://img.shields.io/badge/Oracle-blue)</br>
+![Postgre](https://img.shields.io/badge/Postgre-blue)</br>
+![MongoDB](https://img.shields.io/badge/MongoDB-blue)</br>
 
 ### ORM
 ![HNibernate](https://img.shields.io/badge/HNibernate-blue)</br>
@@ -28,7 +28,7 @@
 ![ADO.Net](https://img.shields.io/badge/ADO.Net-blue)</br>
 
 ### Architecture
-![Microserves](https://img.shields.io/badge/microsoft-blue)</br>
+![Microservices](https://img.shields.io/badge/Microservices-blue)</br>
 ![Docker](https://img.shields.io/badge/Docker-blue)</br>
 ![Ocelot](https://img.shields.io/badge/Ocelot-blue)</br>
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-blue)</br>
@@ -43,11 +43,14 @@
 ## Libraries:
 
 ![Flash](https://img.shields.io/badge/Flash-blue)</br>
-![Pandas](https://img.shields.io/badge/pandas, -blue)</br>
-![Python](https://img.shields.io/badge/PythonL-blue)</br>
-![Python](https://img.shields.io/badge/PythonL-blue)</br>
-![Python](https://img.shields.io/badge/PythonL-blue)</br>
-![Python](https://img.shields.io/badge/PythonL-blue)</br>
+![Pandas](https://img.shields.io/badge/Pandas-blue)</br>
+![Pytorch](https://img.shields.io/badge/Pytorch-blue)</br>
+![OpenCV](https://img.shields.io/badge/OpenCV-blue)</br>
+![JQuey](https://img.shields.io/badge/JQuey-blue)</br>
+![Javascript](https://img.shields.io/badge/Javascript-blue)</br>
+![Javascript](https://img.shields.io/badge/Javascript-blue)</br>
+![Javascript](https://img.shields.io/badge/Javascript-blue)</br>
+![Javascript](https://img.shields.io/badge/Javascript-blue)</br>
 
 ## Research
 
@@ -58,8 +61,10 @@
 
 ## Find me at:
 
-Linkedin
-Hotmail
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/marcos-maciel-631210170/)</br>
+![Hotmail](https://img.shields.io/badge/Hotmail-mmaciel03@hotmail.com-blue)</br>
+
+
 
 
 
