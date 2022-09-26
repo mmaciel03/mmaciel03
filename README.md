@@ -120,7 +120,7 @@ Autoridad emisora CertiProf Expedición: ene 2021 CredencialID FLCPBBQWWS-DJGFHR
 
 ## Find me at:
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/marcos-maciel-631210170/)</br>
+[![Linkedin](https://img.shields.io/badge/Linkedin-Marcos-blue)](https://www.linkedin.com/in/marcos-maciel-631210170/)</br>
 ![Hotmail](https://img.shields.io/badge/Hotmail-mmaciel03@hotmail.com-blue)</br>
 
 
