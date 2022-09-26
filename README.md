@@ -9,7 +9,7 @@
 ![NodeJs](https://img.shields.io/badge/NodeJs-blue)</br>
 ![ReactJs](https://img.shields.io/badge/ReactJs-blue)</br>
 ![ASP.Net](https://img.shields.io/badge/ASP.Net-blue)</br>
-![MVC&razor](https://img.shields.io/badge/MVC&Razor-blue)</br>
+![MVC%20Razor](https://img.shields.io/badge/MVC%20Razor-blue)</br>
 ![NetCore](https://img.shields.io/badge/NetCore-blue)</br>
 
 ### Data Bases:
