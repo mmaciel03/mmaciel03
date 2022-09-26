@@ -6,11 +6,13 @@
 
 ![Python](https://img.shields.io/badge/Python-blue) &nbsp;&nbsp;
 ![C#](https://img.shields.io/badge/C%23-blue) &nbsp;&nbsp; 
-![NodeJs](https://img.shields.io/badge/NodeJs-blue) &nbsp;&nbsp;  </br>
-![ReactJs](https://img.shields.io/badge/ReactJs-blue) &nbsp;&nbsp;
+![NetCore](https://img.shields.io/badge/NetCore-blue) &nbsp;&nbsp;
+![NodeJs](https://img.shields.io/badge/NodeJs-blue) &nbsp;&nbsp;  
+![ReactJs](https://img.shields.io/badge/ReactJs-blue) &nbsp;&nbsp; </br>
 ![ASP.Net](https://img.shields.io/badge/ASP.Net-blue) &nbsp;&nbsp; 
 ![MVC%20Razor](https://img.shields.io/badge/MVC%20Razor-blue) &nbsp;&nbsp; 
-![NetCore](https://img.shields.io/badge/NetCore-blue) &nbsp;&nbsp;</br>
+![ASP%203.0](https://img.shields.io/badge/ASP%203.0-blue) &nbsp;&nbsp;
+![Visual%20Basic](https://img.shields.io/badge/Visual%20Basic-blue) &nbsp;&nbsp;</br>
 
 ### Data Bases:
 
