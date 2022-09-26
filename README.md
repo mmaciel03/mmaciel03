@@ -48,9 +48,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-blue)</br>
 ![JQuey](https://img.shields.io/badge/JQuey-blue)</br>
 ![Javascript](https://img.shields.io/badge/Javascript-blue)</br>
-![Javascript](https://img.shields.io/badge/Javascript-blue)</br>
-![Javascript](https://img.shields.io/badge/Javascript-blue)</br>
-![Javascript](https://img.shields.io/badge/Javascript-blue)</br>
 
 ## Research
 ![](https://img.shields.io/badge/Technology-brightgreen)</br>
@@ -88,14 +85,43 @@ Categoría: Trabajos estudiantiles Mención especial para Temporalidad Aplicada 
 
 ## Always learning:
 
+2022 - EF Standard English Test (EF SET) </br>
+Autoridad emisora: The Official EF SET Certificate. ID de la credencial https://www.efset.org/cert/EADekr </br>
+
+2022 - Aprender de cero MongoDB - MongoDB Atlas - MongoDB Compass </br>
+Autoridad emisora: Udemy. ID de la credencial UC-bbd4c73b-042a-4faa-bbb7-7520250dc9b2 </br>
+
+2022 - Microservices Architecture and Implementation on .NET 5 </br>
+Autoridad emisora: Udemy. ID de la credencial UC-e8adc2d0-3c46-4c69-91ef-0f70bf13be78 </br>
+
+2021 - ASP.NET Core 5.0 MVC The Beginners Guide To Becoming A Pro. </br>
+Autoridad emisora: Udemy. ID de la credencial UC-bfd33e0f-9f1b-4cc7-9114-a2804d5668b6 </br>
+
+2021 - Building Intelligent Recommender Systems. </br>
+Autoridad emisora: NVIDIA Certificate ID Number: dbfd011cbe1e4934984979c7bc678196 </br>
+
+2021 - Programming with Python 3.X. Autoridad emisora Skillup </br>
+
+2021 - AWS Academy Graduate - AWS Academy Machine Learning Foundations </br> 
+Autoridad emisora Amazon Web Services (AWS) ID Credencial https://www.credly.com/badges/a31703d6-a2d6-4c70-8b19-66988a78d186?source=linked_in_profile </br>
+
+2021 - DevOps Essentials Professional Certificate (DEPC) </br> 
+Autoridad emisora CertiProf Expedición: ene 2021 CredencialID FLCPBBQWWS-DJGFHRRH-WHNFNZHWDW </br>
+
+2015 - Preparación examen PMP 42hs (Pmbook 5°). </br>
+
+2012 - Microsoft Certified Professional (MCP) </br> 
+
+2011 - Ingles: B1 (https://cui.edu.ar/) </br> 
+
+2010 - Desarrollador 5 Estrellas Microsoft. - Microsoft Active Professional </br>
+
+2009 - Microsoft Active Professional </br>
 
 ## Find me at:
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/marcos-maciel-631210170/)</br>
 ![Hotmail](https://img.shields.io/badge/Hotmail-mmaciel03@hotmail.com-blue)</br>
-
-
-
 
 
 <!--
