@@ -23,7 +23,7 @@
 ### ORM
 ![HNibernate](https://img.shields.io/badge/HNibernate-blue) &nbsp;&nbsp;
 ![EntityFramework](https://img.shields.io/badge/EntityFramework-blue) &nbsp;&nbsp;
-![sequelize](https://img.shields.io/badge/Sequelize-blue)</br> &nbsp;&nbsp;
+![sequelize](https://img.shields.io/badge/Sequelize-blue) &nbsp;&nbsp; </br>
 ![mongoose](https://img.shields.io/badge/Mongoose-blue) &nbsp;&nbsp; 
 ![ADO.Net](https://img.shields.io/badge/ADO.Net-blue) &nbsp;&nbsp; </br>
 
@@ -45,7 +45,7 @@
 ![Flash](https://img.shields.io/badge/Flash-blue) &nbsp;&nbsp; 
 ![Pandas](https://img.shields.io/badge/Pandas-blue) &nbsp;&nbsp; 
 ![Pytorch](https://img.shields.io/badge/Pytorch-blue) &nbsp;&nbsp;
-![OpenCV](https://img.shields.io/badge/OpenCV-blue)</br> &nbsp;&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-blue) &nbsp;&nbsp;</br> 
 ![JQuey](https://img.shields.io/badge/JQuey-blue) &nbsp;&nbsp;
 ![Javascript](https://img.shields.io/badge/Javascript-blue) &nbsp;&nbsp;</br>
 
