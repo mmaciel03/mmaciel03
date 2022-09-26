@@ -4,55 +4,55 @@
 ## Skills:
 ### Programming lenguages:
 
-![Python](https://img.shields.io/badge/Python-blue)</br>
-![C#](https://img.shields.io/badge/C%23-blue)</br>
-![NodeJs](https://img.shields.io/badge/NodeJs-blue)</br>
-![ReactJs](https://img.shields.io/badge/ReactJs-blue)</br>
-![ASP.Net](https://img.shields.io/badge/ASP.Net-blue)</br>
-![MVC%20Razor](https://img.shields.io/badge/MVC%20Razor-blue)</br>
-![NetCore](https://img.shields.io/badge/NetCore-blue)</br>
+![Python](https://img.shields.io/badge/Python-blue) &nbsp;&nbsp;
+![C#](https://img.shields.io/badge/C%23-blue) &nbsp;&nbsp; 
+![NodeJs](https://img.shields.io/badge/NodeJs-blue) &nbsp;&nbsp;  </br>
+![ReactJs](https://img.shields.io/badge/ReactJs-blue) &nbsp;&nbsp;
+![ASP.Net](https://img.shields.io/badge/ASP.Net-blue) &nbsp;&nbsp; 
+![MVC%20Razor](https://img.shields.io/badge/MVC%20Razor-blue) &nbsp;&nbsp; 
+![NetCore](https://img.shields.io/badge/NetCore-blue) &nbsp;&nbsp;</br>
 
 ### Data Bases:
 
-![MSSQL](https://img.shields.io/badge/MSSQL-blue)</br>
-![Sybase](https://img.shields.io/badge/Sybase-blue)</br>
-![Oracle](https://img.shields.io/badge/Oracle-blue)</br>
-![Postgre](https://img.shields.io/badge/Postgre-blue)</br>
-![MongoDB](https://img.shields.io/badge/MongoDB-blue)</br>
+![MSSQL](https://img.shields.io/badge/MSSQL-blue) &nbsp;&nbsp; 
+![Sybase](https://img.shields.io/badge/Sybase-blue) &nbsp;&nbsp; 
+![Oracle](https://img.shields.io/badge/Oracle-blue)</br> 
+![Postgre](https://img.shields.io/badge/Postgre-blue) &nbsp;&nbsp; 
+![MongoDB](https://img.shields.io/badge/MongoDB-blue) &nbsp;&nbsp; </br>
 
 ### ORM
-![HNibernate](https://img.shields.io/badge/HNibernate-blue)</br>
-![EntityFramework](https://img.shields.io/badge/EntityFramework-blue)</br>
-![sequelize](https://img.shields.io/badge/Sequelize-blue)</br>
-![mongoose](https://img.shields.io/badge/Mongoose-blue)</br>
-![ADO.Net](https://img.shields.io/badge/ADO.Net-blue)</br>
+![HNibernate](https://img.shields.io/badge/HNibernate-blue) &nbsp;&nbsp;
+![EntityFramework](https://img.shields.io/badge/EntityFramework-blue) &nbsp;&nbsp;
+![sequelize](https://img.shields.io/badge/Sequelize-blue)</br> &nbsp;&nbsp;
+![mongoose](https://img.shields.io/badge/Mongoose-blue) &nbsp;&nbsp; 
+![ADO.Net](https://img.shields.io/badge/ADO.Net-blue) &nbsp;&nbsp; </br>
 
 ### Architecture
-![Microservices](https://img.shields.io/badge/Microservices-blue)</br>
-![Docker](https://img.shields.io/badge/Docker-blue)</br>
-![Ocelot](https://img.shields.io/badge/Ocelot-blue)</br>
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-blue)</br>
+![Microservices](https://img.shields.io/badge/Microservices-blue) &nbsp;&nbsp; 
+![Docker](https://img.shields.io/badge/Docker-blue) &nbsp;&nbsp; 
+![Ocelot](https://img.shields.io/badge/Ocelot-blue)  &nbsp;&nbsp;
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-blue) &nbsp;&nbsp; </br>
 
 ### Testing:
-![Swagger](https://img.shields.io/badge/Swagger-blue)</br>
-![Postman](https://img.shields.io/badge/Postman-blue)</br>
-![Newman](https://img.shields.io/badge/Newman-blue)</br>
-![Selenium](https://img.shields.io/badge/Selenium-blue)</br>
-![Cypress](https://img.shields.io/badge/Cypress-blue)</br>
+![Swagger](https://img.shields.io/badge/Swagger-blue) &nbsp;&nbsp; 
+![Postman](https://img.shields.io/badge/Postman-blue) &nbsp;&nbsp; 
+![Newman](https://img.shields.io/badge/Newman-blue) &nbsp;&nbsp; </br> 
+![Selenium](https://img.shields.io/badge/Selenium-blue) &nbsp;&nbsp;
+![Cypress](https://img.shields.io/badge/Cypress-blue) &nbsp;&nbsp;</br> 
 
 ## Libraries:
 
-![Flash](https://img.shields.io/badge/Flash-blue)</br>
-![Pandas](https://img.shields.io/badge/Pandas-blue)</br>
-![Pytorch](https://img.shields.io/badge/Pytorch-blue)</br>
-![OpenCV](https://img.shields.io/badge/OpenCV-blue)</br>
-![JQuey](https://img.shields.io/badge/JQuey-blue)</br>
-![Javascript](https://img.shields.io/badge/Javascript-blue)</br>
+![Flash](https://img.shields.io/badge/Flash-blue) &nbsp;&nbsp; 
+![Pandas](https://img.shields.io/badge/Pandas-blue) &nbsp;&nbsp; 
+![Pytorch](https://img.shields.io/badge/Pytorch-blue) &nbsp;&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-blue)</br> &nbsp;&nbsp;
+![JQuey](https://img.shields.io/badge/JQuey-blue) &nbsp;&nbsp;
+![Javascript](https://img.shields.io/badge/Javascript-blue) &nbsp;&nbsp;</br>
 
 ## Research
-![](https://img.shields.io/badge/Technology-brightgreen)</br>
-![](https://img.shields.io/badge/Computer%20Vision-brightgreen)</br>
-![](https://img.shields.io/badge/Artificial%20Intelligence-brightgreen)</br>
+![](https://img.shields.io/badge/Technology-brightgreen) &nbsp;&nbsp;
+![](https://img.shields.io/badge/Computer%20Vision-brightgreen) &nbsp;&nbsp;
+![](https://img.shields.io/badge/Artificial%20Intelligence-brightgreen) &nbsp;&nbsp;</br>
 
 ## Papers
 
